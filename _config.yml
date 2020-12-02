@@ -1,6 +1,6 @@
 title: Welcome to Bote BLOG
 description: Write you in my diary.
-baseurl: "/hi" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "bote.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
