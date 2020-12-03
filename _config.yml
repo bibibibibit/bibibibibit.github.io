@@ -1,5 +1,5 @@
-title: Welcome to Bote BLOG
-description: Write you in my diary.
+title: BOTE
+description: My BLLLOOOOG!
 baseurl:  # the subpath of your site, e.g. /blog
 url: "bibibibibit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,7 +9,7 @@ author-image:   1.png
 author-job:     Student
 author-email:   117010408@link.cuhk.edu.cn # Add your email for contant form.
 author-school: the Chinese University of Hong Kong - Shenzhen # Add your twitter account
-about-author:   Wrting Here and Thinking Here
+about-author:   Write you in my diary.
 
 # Social settings
 social-twitter:   bibibibibit
